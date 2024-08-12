@@ -9,6 +9,4 @@ Tener en cuenta el cambio de variables para la conexion a base de datos dependie
 Se adjunta un archivo registros.bak es la base de datos, únicamente importarla y listo.
 El usuario de SQL Server que maneje la base de datos debe tener todos los permisos para poder editarla y hacer consultas.
 
-Agradezco mucho su atención y la oportunidad, cualquier duda estoy a su disposición.
-
 Mateo Velasco
